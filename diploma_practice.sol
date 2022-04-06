@@ -125,5 +125,4 @@ contract CredentialBox is IssuerHelper {
         credentials[_alumni].statusType = _type;
         return true;
     }
-
 }
